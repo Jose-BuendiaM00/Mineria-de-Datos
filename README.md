@@ -13,3 +13,9 @@
 [Mapa Mental 2](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/MapaMental_2_1813456%20(1).pdf)
 
 # Etapa 2
+
+[Analisis BD](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/AnalisisBD_1813456.pdf)
+
+[]()
+
+[Avance del pia 1](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/Avance1-PIA_5_004.pdf)
