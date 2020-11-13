@@ -23,3 +23,4 @@
 [Ejercicios Python Mineria de datos-checkpoint-grupo003,equipo5](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/Ejercicios%20Python%20Mineria%20de%20datos-checkpoint-grupo003%2Cequipo5.ipynb)
 
 [Avance_Pia_Parte II](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/AvancePIA_II_003_05.ipynb)
+
