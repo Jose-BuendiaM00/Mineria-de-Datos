@@ -24,3 +24,5 @@
 
 [Avance_Pia_Parte II](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/AvancePIA_II_003_05.ipynb)
 
+[Poster Final](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/Poster%20Terrorismo%20en%20M%C3%A9xico.pdf)
+
